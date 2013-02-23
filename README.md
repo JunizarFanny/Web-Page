@@ -30,7 +30,7 @@ Tempat tanggal lahir saya 09 Juni 1993.
 Saat ini saya baru berumur <sub>19</sub> tahun.</font>
 </p>
 <p>
-Link Untuk mengganti biodata =><a href="table.md">Merubah Biodata</a>
+Link Untuk mengganti biodata =><a href="table.md">Merubah Biodata</a><br>
 Link Untuk melihat tampilan WEBnya Faany =><a href="https://github.com/JunizarFanny/Tugas/wiki/Tugas-Pemrograman-Berbasis-Web">WAJIB DILIHAT</a>
 </p>
 </body>
