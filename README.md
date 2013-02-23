@@ -29,7 +29,7 @@ Tempat tanggal lahir saya 09 Juni 1993.
 Saat ini saya baru berumur <sub>19</sub> tahun.</font>
 </p>
 <p>
-Link Untuk mengganti biodata =><a href="table.html">Merubah Biodata</a>
+Link Untuk mengganti biodata =><a href="table.md">Merubah Biodata</a>
 </p>
 </body>
 </html> 
