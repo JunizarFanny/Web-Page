@@ -9,6 +9,7 @@ Tugas Pemrograman Berbasis Web
 <body>
 <center><h1><font size="30", color=Green, >Deskripsi Diri</font></h1>
 <h2><hr>Perkenalan</hr></h2>
+<a href="http://www.facebook.com/photo.php?fbid=4389909266208&set=a.2569232630430.2112442.1242651425&type=1">foto</a>
 <img src="1.jpg", width=100, hight=100>
 </center>
 <justify>
